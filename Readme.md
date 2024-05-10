@@ -28,3 +28,5 @@ Apresentações dos Projetos em 21/06/2024 - no máximo 10 minutos para cada gru
 Poderemos ter professor convidado no dia da apresentação, conforme a agenda do professor.
 
 Todos os Projetos deverão ser entregues no formato digital e a documentação no padrão ABNT conforme arquivo disponibilizado em repositório.
+
+Dica: conheça também - https://fastformat.co/ para preparar a parte documental do teu projeto.
